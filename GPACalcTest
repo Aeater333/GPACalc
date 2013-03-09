@@ -1,0 +1,16 @@
+public class GPACalcTest {
+  
+public static void main( String[] args )
+{
+
+	GPACalc myGPACalc = new GPACalc("Welcome to my GPA calc");
+	
+	myGPACalc.inputGrades();
+	myGPACalc.displayGradeReport();
+	
+	
+	
+	
+	
+}
+}
